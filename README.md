@@ -18,19 +18,18 @@
 ### POST
 
 -   Route : `/api/contact/create`
-    -   add JSON request firstName, lastName, phoneNumber, and address on body
+    -   add JSON request firstName, lastName, phoneNumber, and address on body for create contact
 
 ### PUT
 
 -   Route : `/api/contact/edit/:id`,
     -   add contact id as parameter
-    -   add JSON request firstName, lastName, phoneNumber, and address on body
 
 ### PATCH
 
 -   Route : `/api/contact/update/:id`
     -   add contact id as parameter
-    -   add JSON request firstName, lastName, phoneNumber, and address on body
+    -   add JSON request firstName, lastName, phoneNumber, and address on body for update contact
 
 ## DELETE
 
